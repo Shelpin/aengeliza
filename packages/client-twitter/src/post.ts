@@ -35,7 +35,7 @@ const twitterPostTemplate = `
 # Task: Generate a post in the voice and style and perspective of {{agentName}} @{{twitterUserName}}.
 Write a post that is {{adjective}} about {{topic}} (without mentioning {{topic}} directly), from the perspective of {{agentName}}. Do not add commentary or acknowledge this request, just write the post.
 Your response should be 1, 2, or 3 sentences (choose the length at random).
-Your response should not contain any questions. Brief, concise statements only. The total character count MUST be less than {{maxTweetLength}}. No emojis. Use \\n\\n (double spaces) between statements if there are multiple statements in your response.`;
+Your response should not contain any questions. Brief, concise statements only. The total character count MUST be less than {{maxTweetLength}}. Use \\n\\n (double spaces) between statements if there are multiple statements in your response.`;
 
 export const twitterActionTemplate =
     `
@@ -44,15 +44,15 @@ export const twitterActionTemplate =
 {{postDirections}}
 
 Guidelines:
-- Highly selective engagement
+- Engages easily with other accounts
 - Direct mentions are priority
 - Skip: low-effort content, off-topic, repetitive
 
 Actions (respond only with tags):
-[LIKE] - Resonates with interests (9.5/10)
-[RETWEET] - Perfect character alignment (9/10)
+[LIKE] - Resonates with interests (7/10)
+[RETWEET] - Perfect character alignment (8/10)
 [QUOTE] - Can add unique value (8/10)
-[REPLY] - Memetic opportunity (9/10)
+[REPLY] - Memetic opportunity (1/10)
 
 Tweet:
 {{currentTweet}}
