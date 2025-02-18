@@ -1,7 +1,14 @@
-# Public Repo of the ELizaOS based version of ængel 
+# Public Repo of the ElizaOS based version of ængel 
 
 ![ængel_logo_no_text](https://github.com/user-attachments/assets/84359445-29df-4253-afdf-75dae453fc8b)
 
+ae community experiment on the intersection of Blockchain and AI in the most suitable infrastrcuture for onchain AI economies
+
+web @ http://89.250.73.39:5173/
+Telegram  [@aengeliza_bot](https://t.me/aengeliza_bot)
+Twitter @ https://x.com/aeternityaengel
+
+And the original open ai gpt assistant based aengel at https://chatgpt.com/g/g-6739cfae51b08191978fe6e9760e26b0-aengel
 
 Project granted by the æternity foundation 
 
