@@ -1,3 +1,12 @@
+# Public Repo of the ELizaOS based version of ængel 
+
+![ængel_logo_no_text](https://github.com/user-attachments/assets/84359445-29df-4253-afdf-75dae453fc8b)
+
+
+Project granted by the æternity foundation 
+
+https://forum.aeternity.com/t/new-aengel-a-first-step-towards-aeiternity/13085
+
 # Eliza 🤖
 
 <div align="center">
